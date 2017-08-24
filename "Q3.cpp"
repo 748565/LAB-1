@@ -2,7 +2,7 @@
 using namespace std;
 main () {
 int a,b;
-cout << " Enter Two Integer;
+cout << " Enter Two Integer ";
 cin >> a >> b;
 cout << " Addition " << a+b << " Substraction " << a-b << " Multiplication " << a*b << " Division " << (float)a/b << " Quotient " << a/b << " Remainder " << a%b;
 }
