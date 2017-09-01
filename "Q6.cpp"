@@ -1,8 +1,9 @@
 #include <iostream>
 using namespace std;
-main () {
-int r ;
+int main () {
+float r ;
 cout << " Enter Radius ";
 cin >> r ;
 cout << " Diameter " << 2*r << " Circumference " << 2*3.14*r << " Area " << 3.14*r*r;
+return 0;
 }
