@@ -1,9 +1,10 @@
 #include <iostream>
 using namespace std;
-main () {
-int a,b;
+int main () {
+float a,b;
 cout << " Enter Length ";
 cout << " Enter Breadth ";
 cin >> a >> b;
 cout << " Area " << a*b;
+return 0;
 }
