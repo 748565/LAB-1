@@ -1,9 +1,10 @@
 #include <iostream>
 using namespace std;
-main () {
-int a = 3;
+int main () {
+float a = 3;
 char b = 'z';
 float c = 5.1;
 bool d = true;
 cout << a << b << c << d;
+return o;
 }
