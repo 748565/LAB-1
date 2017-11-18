@@ -6,5 +6,5 @@ char b = 'z';
 float c = 5.1;
 bool d = true;
 cout << a << b << c << d;
-return o;
+return 0;
 }
